@@ -17,6 +17,8 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <!--
 <code><img height="20" src="https://qph.fs.quoracdn.net/main-qimg-748316a749bdb46f5cdbe02e976e5500.webp"></code>
 <code><img height="20" src="https://seeklogo.com/images/D/django-logo-F46C1DD95E-seeklogo.com.png"></code>
@@ -29,8 +31,6 @@
 
 <code><img height="20" src="https://icon2.cleanpng.com/20180705/ok/kisspng-google-cloud-platform-cloud-computing-google-searc-5b3ee51fa96857.2438006715308485436939.jpg"></code>
 <code><img height="20" src="https://miro.medium.com/max/4392/1*iaH9co5CxNPD2cx1VNCYKQ.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 -->
 
 <!--
